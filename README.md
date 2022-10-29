@@ -5,10 +5,10 @@
 
 #### Software developer
 
-Laravel, Angular, Vue. Follow me @tobydevs IG & Twitter.
+Follow me @tobydevs IG & Twitter.
 
 
-I architect, develop and scale web applications in Laravel (Php), Angular(Js) and Vue (Js). I write cross-platform mobile applications using Flutter (Dart). I've lead small teams and delivered projects using Test Driven Development / SCRUM methodology.
+I'm well versed in Laravel, PHP.
 
 I have worked with startups in very dynamic work environments and like exploring radical solutions or ideas. When work is done, i enjoy watching live bands and swimming.
 
